@@ -1,4 +1,4 @@
-// #ifdef CH07_H
+#ifdef CH07_H
 #define CH07_H
 
 #include <iostream>
@@ -34,4 +34,4 @@ private:
     double revenue = 0.0;
 };
 
-// #endif
+#endif
