@@ -50,6 +50,7 @@
         "iomanip": "cpp",
         "list": "cpp",
         "optional": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "stack": "cpp"
     }
 }
