@@ -1,3 +1,4 @@
 *.dSYM
 test
 *.pdf
+*.DS_Store
