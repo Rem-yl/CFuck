@@ -51,6 +51,8 @@
         "list": "cpp",
         "optional": "cpp",
         "unordered_map": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "condition_variable": "cpp",
+        "deque": "cpp"
     }
 }
