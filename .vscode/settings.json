@@ -53,6 +53,8 @@
         "unordered_map": "cpp",
         "stack": "cpp",
         "condition_variable": "cpp",
-        "deque": "cpp"
+        "deque": "cpp",
+        "__tree": "cpp",
+        "map": "cpp"
     }
 }
