@@ -9,6 +9,9 @@
                 "-std=c++11",
                 "-g",
                 "${file}",
+                "${fileDirname}/src/*",
+                "-I${fileDirname}/include",
+                "-I${fileDirname}/src",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
             ],
